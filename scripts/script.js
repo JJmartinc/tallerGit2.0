@@ -1,3 +1,4 @@
+//
 function validation(users, email, pass) {
     for (user of users) {
         if (user.email === email && user.pass === pass) {
