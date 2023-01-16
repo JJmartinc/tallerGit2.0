@@ -1,7 +1,14 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+body{
+    display: flex;
+   
+    justify-content: center;
+}
+form{
+    width: 60%;
+}
 input{ 
     border:0;
     border-bottom:1px solid #555;  
