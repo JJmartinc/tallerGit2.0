@@ -10,7 +10,7 @@ function validation(users, email, pass) {
 const users = [
     {
         email: "ruben@gmail.com",
-        pass: "1234"
+        pass: "12345"
     },
     {
         email: "cesar@gmail.com",
