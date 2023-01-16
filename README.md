@@ -8,7 +8,11 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
-
+<br>
+<h3>Validacion de usuario</h3>
+<p>Validacion de Email y contraseña, si se encuentra en nuestra base de datos se envia el formulario</p>
+   
+   
 
 ## Autores
 
